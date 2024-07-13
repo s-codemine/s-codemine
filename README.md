@@ -15,7 +15,7 @@
 - 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1VOlNoDAGZSAt1mQmiu277TU5qtqxA3WG/view?usp=share_link" target="_blank">Dukeson Ehigboria O.</a>
 
 <p align="right">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Sampul-CodeMine&label=Profile%20Views&color=6&icon=0&pretty=true" /></a>
+  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=s-codemine&label=Profile%20Views&color=6&icon=0&pretty=true" /></a>
 </p>
 
 <hr>
